@@ -137,6 +137,9 @@ Ensure Dovecot SASL socket is active:
 ```
 /var/spool/postfix/private/auth
 ```
+### ☕ Support the Project
+If this guide helped you, consider supporting my work:  
+https://buymeacoffee.com/Asabra1
 
 ---
 
